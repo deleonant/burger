@@ -1,5 +1,5 @@
-INSERT INTO burgers (burger_name) VALUES ('Kuma Burger');
-INSERT INTO burgers (burger_name) VALUES ('Slayer Burger');
-INSERT INTO burgers (burger_name) VALUES ('Plague Burger');
-INSERT INTO burgers (burger_name) VALUES ('Lair of the Minotaur Burger');
-INSERT INTO burgers (burger_name) VALUES ('Goatsnake Burger');
+INSERT INTO burgers (burger_name) VALUES ('Burger 1');
+INSERT INTO burgers (burger_name) VALUES ('Burger 2');
+INSERT INTO burgers (burger_name) VALUES ('Burger 3');
+INSERT INTO burgers (burger_name) VALUES ('Burger 5');
+INSERT INTO burgers (burger_name) VALUES ('Burger 6');
